@@ -1,3 +1,3 @@
 # git_learning-shuab
-br
-author- Mohd Shuaib 
+hello everyone now i am mohd shuaib 
+author by - Mohd Shuaib
